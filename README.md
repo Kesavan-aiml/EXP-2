@@ -50,7 +50,7 @@ Procedure for Load test:
 Open circuit characteristics
 <img width="1111" height="960" alt="Gemini_Generated_Image_vx3ycvvx3ycvvx3y" src="https://github.com/user-attachments/assets/f1f48a67-260e-4248-a352-3372bb1e9ee7" />
 
-Load Characteristics:
+Load circuit Characteristics:
  <img width="1248" height="848" alt="Gemini_Generated_Image_5s791o5s791o5s79" src="https://github.com/user-attachments/assets/65a4aabf-dc69-4f94-a083-2e8370b7237d" />
 
 Model graph:
