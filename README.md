@@ -74,7 +74,7 @@ Load circuit:
 Tabulation for Open Circuit Test
 <img width="1386" height="587" alt="Screenshot 2026-10-17 180314" src="https://github.com/user-attachments/assets/1ca2f164-5c6f-4aca-9db4-fb45e6fbaf8d" />
 
-Tabulation for Load Test:
+Tabulation for Load Circuit Test:
 <img width="1160" height="515" alt="Screenshot 2026-10-17 180402" src="https://github.com/user-attachments/assets/629a19bf-c213-4e30-9f3b-e42d514c68f1" />
 
 
