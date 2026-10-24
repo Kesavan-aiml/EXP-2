@@ -63,7 +63,11 @@ Load circuit
 
 Calculation:
 
+Open circuit:
+
 <img width="577" height="735" alt="Screenshot 2026-10-17 175930" src="https://github.com/user-attachments/assets/13c7a70c-e8b2-47a2-ae68-416ba14c813b" />
+
+Load circuit:
 
 <img width="678" height="805" alt="Screenshot 2026-10-17 180200" src="https://github.com/user-attachments/assets/fcacfcf0-70d7-49c0-a46f-889683279144" />
 
